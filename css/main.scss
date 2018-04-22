@@ -1,0 +1,103 @@
+---
+---
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,700");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css");
+
+body {
+  font-family: "Merriweather",serif;
+  font-size: 15px;
+  line-height: 2;
+  color: #515151;
+  background-color: #fff;
+}
+
+h2,strong {
+  color: #252121;
+}
+
+a {
+  color: #6c6666;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-transition: color 0.2s ease-in-out;
+  -moz-transition: color 0.2s ease-in-out;
+  -o-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  font-size: 15px;
+}
+
+a:hover,a:focus {
+    color: #FF5B33;
+    text-decoration: none;
+}
+
+.content a {
+  color: #FF5B33;
+  text-decoration: none;
+  font-weight: bold;
+  -webkit-transition: color 0.2s ease-in-out;
+  -moz-transition: color 0.2s ease-in-out;
+  -o-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+  font-size: 15px;
+}
+
+.content a:hover,a:focus {
+    color: #FF5B33;
+    text-decoration: underline;
+}
+
+
+#navbar-ul > li {
+  display: inline-block;
+  margin: 0 10px 0 5px;
+}
+
+.navbar {
+  padding: 50px 0 0 0;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.navbar-link {
+  font-size: 18px;
+}
+
+.profile-img {
+  padding: 20px 0;
+  margin: 40px 0;
+}
+
+.profile-img img {
+  width: 250px;
+  border-radius: 50%;
+  margin: auto;
+  display: table;
+}
+
+.content {
+  font-size: 15px;
+}
+.content a {
+  font-size: 15px;
+}
+
+#social-ul > li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+@media only screen and (max-width:992px) {
+  #social-ul {
+    text-align: center;
+  }
+  #social-ul > li {
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+  }
+}
+.social i {
+  font-size: 28px;
+}

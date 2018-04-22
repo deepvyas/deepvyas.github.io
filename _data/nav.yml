@@ -1,0 +1,8 @@
+- name: "About"
+  link: "index"
+
+- name: "Projects"
+  link: "projects"
+
+- name: "Resume"
+  link: "resume.pdf"

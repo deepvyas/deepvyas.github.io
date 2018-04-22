@@ -1,0 +1,12 @@
+title: Deep Vyas
+
+author: Deep Vyas
+
+url: "https://deepvyas.github.io"
+baseurl: ""
+
+tracking_id: UA-117922563-1
+
+sass:
+        sass_dir: _sass
+        style: compressed
