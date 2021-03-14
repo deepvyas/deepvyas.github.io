@@ -1,5 +1,5 @@
-- name: "About"
-  link: "index"
+- name: "Experience"
+  link: "experience"
 
 - name: "Projects"
   link: "projects"
