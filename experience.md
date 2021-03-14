@@ -13,7 +13,7 @@ I work as a part of a team which started of building shared platform services fo
 
 My work here involves building out shared services for the platform to handle common concerns like Authorization, sending out communications and maintaining customer profiles. 
 
-We also build out core libraries to maintain a uniform patterns across layers like web security, cryptography, access to data stores(like Mongo, S3, RDS, DynamoDB), using messaging queues(like Kafka) and using Serverless Compute(like Lambdas).
+We also build out core libraries to maintain a uniform patterns across layers like web security, cryptography, access to data stores(like Mongo, S3, RDS, DynamoDB), using messaging systems(like Kafka) and using Serverless Compute(like Lambdas).
 
 We also manage large MongoDB deployments on cloud in association with [MongoDB Atlas](https://www.mongodb.com/cloud), and are working on building a *change-data-capture* platform to help with ingesting changes on our data stores to our DataLake for satifying governance and compliance regulations.
 

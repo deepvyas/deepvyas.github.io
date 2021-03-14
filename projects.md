@@ -49,7 +49,7 @@ Also developed the first version of a Q&A style platform which helped people pos
 
 * **Parallel Branch and bound** : implemented branch and bound for Travelling Salesman Problem and Knapsack Problem.
 
-* **Blochain-TS** : A naive implementation in Typescript to understand the basic of BlockChain which powers most crypto-currencies and crypto contracts platforms.
+* **Blockhain-TS** : A naive implementation in Typescript to understand the basic of BlockChain which powers most crypto-currencies and crypto contracts platforms.
 
 * Developed a compiler from scratch for an dummy language called [ERPLAG](https://github.com/deepvyas/Compiler-Construction).
 
