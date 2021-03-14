@@ -9,7 +9,7 @@ layout : default
 
 *Jul 2019 - Present*
 
-I work as a part of a team which started of building shared platform services for the Apple Cards stack and has now been entrusted to build out commons services and engineering patterns for the goal of building a BaaS (Banking as a Service) offering under [Marcus](https://www.marcus.com/) bandwagon.
+I work as a part of a team which started of building shared platform services for the [Apple Cards](https://www.goldmansachs.com/our-firm/history/moments/2019-apple-card.html) stack and has now been entrusted to build out commons services and engineering patterns for the goal of building a BaaS (Banking as a Service) offering under [Marcus](https://www.marcus.com/) bandwagon.
 
 My work here involves building out shared services for the platform to handle common concerns like Authorization, sending out communications and maintaining customer profiles. 
 
