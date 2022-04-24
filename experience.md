@@ -5,17 +5,28 @@ layout : default
 ## Experience
 ---
 
+
+### **Software Engineer - II | Microsoft IDC, Hyderabad**
+
+*Aug 2021 - present*
+
+I work as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
+
+We have been working on developing migration services to help customer(s) assess plan and move their RDBMS databases from on-prem/self hosted to Azure with the focus being on building solutions for heterogeneous migrations like moving Oracle workloads to clouds and modernising to use SQL Server or other OSS databases like PostgreSQL.
+
+---
+
 ### **Software Engineering Analyst | Goldman Sachs, Bangalore**
 
-*Jul 2019 - Present*
+*Jul 2019 - Aug 2021*
 
-I work as a part of a team which started of building shared platform services for the [Apple Cards](https://www.goldmansachs.com/our-firm/history/moments/2019-apple-card.html) stack and has now been entrusted to build out commons services and engineering patterns for the goal of building a BaaS (Banking as a Service) offering under [Marcus](https://www.marcus.com/) bandwagon.
+I worked as a part of a team which started of building shared platform services for the [Apple Cards](https://www.goldmansachs.com/our-firm/history/moments/2019-apple-card.html) stack and has now been entrusted to build out commons services and engineering patterns for the goal of building a BaaS (Banking as a Service) offering under [Marcus](https://www.marcus.com/) bandwagon.
 
-My work here involves building out shared services for the platform to handle common concerns like Authorization, sending out communications and maintaining customer profiles. 
+My work there involved building out shared services for the platform to handle common concerns like Authorization, sending out communications and maintaining customer profiles. 
 
-We also build out core libraries to maintain a uniform patterns across layers like web security, cryptography, access to data stores(like Mongo, S3, RDS, DynamoDB), using messaging systems(like Kafka) and using Serverless Compute(like Lambdas).
+We also built core libraries to maintain a uniform patterns across layers like web security, cryptography, access to data stores(like Mongo, S3, RDS, DynamoDB), using messaging systems(like Kafka) and using Serverless Compute(like Lambdas).
 
-We also manage large MongoDB deployments on cloud in association with [MongoDB Atlas](https://www.mongodb.com/cloud), and are working on building a *change-data-capture* platform to help with ingesting changes on our data stores to our DataLake for satifying governance and compliance regulations.
+We also managed large MongoDB deployments on cloud in association with [MongoDB Atlas](https://www.mongodb.com/cloud), and were working on building a *change-data-capture* platform to help with ingesting changes on our data stores to our DataLake for satifying governance and compliance regulations.
 
 ---
 

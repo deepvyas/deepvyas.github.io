@@ -1,10 +1,10 @@
 ---
 layout : home
 ---
-Hello! I’m a Software Engineering Analyst at [Marcus by Goldman Sachs](https://www.marcus.com/) working towards building a *BaaS platform on the cloud* as a part of an vision to setup a Financial Cloud.
+Hello! I’m a Software Engineer at [Azure Data, Microsoft](https://azure.microsoft.com/en-in/) working towards building a suite of tools and services to help customers modernise their data workloads to cloud to take a leap into the next normal of computing.
 
-I have dabbled into various paradigms of engineering from building mobile apps, cognitive computer vision solutions to building cloud native platform for banking services. Of lately, I have developed a strong intrest in building large scale systems, which can help solve a real world problem.
+I have dabbled into various paradigms of engineering from building mobile apps, cognitive computer vision solutions, building cloud native platform for banking services to now building cloud database solutions. I have a strong interest in building large scale systems, which can help solve real world problem(s). Of lately, I have also been keen to explore the Web3 world and have tried to dip my feet into the **blockchain** world.
 
-I have also had the opportunity to work with engineering teams at **Microsoft**, **Samsung Research** and **TIFR** on various interesting projects during my undergrad days at **BITS-Pilani**.
+I have also had the opportunity to work with engineering teams at **Marcus, Goldman Sachs**, **Samsung Research** and **TIFR** on various interesting projects post completing my undergrad at **BITS-Pilani**.
 
-You can find more details on my work experience [here](./experience). And if they impress you here's my [resume](./resume.pdf).
+You can find more details on my work experience [here](./experience). And if they impress you here's my [resume](./resume_ms_update.pdf).
