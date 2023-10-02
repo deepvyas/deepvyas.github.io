@@ -6,13 +6,13 @@ layout : default
 ---
 
 
-### **Software Engineer - II | Microsoft IDC, Hyderabad**
+### **Senior Software Engineer | Microsoft IDC, Hyderabad**
 
 *Aug 2021 - present*
 
-I work as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
+I work as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise (migrate or hybridly manage) their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
 
-We have been working on developing migration services to help customer(s) assess plan and move their RDBMS databases from on-prem/self hosted to Azure with the focus being on building solutions for heterogeneous migrations like moving Oracle workloads to clouds and modernising to use SQL Server or other OSS databases like PostgreSQL.
+We have been working on developing migration services to help customer(s) assess, plan and move their RDBMS databases from on-prem/self hosted to Azure with the focus being on building solutions for bringing customers to Azure SQL offerings. (all PaaS, IaaS and [hybrid-management](https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/connect?view=sql-server-ver16&tabs=windows) offerings.)
 
 ---
 
