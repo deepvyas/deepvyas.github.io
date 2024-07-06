@@ -5,10 +5,19 @@ layout : default
 ## Experience
 ---
 
+### **Engineering | ONE, Hyderabad**
+
+*Jan 2024 - present*
+
+I work as a par the Core Banking and Risk Engineering team for [ONE](https://www.one.app/), which has the objective of managing the core banking and risk engineering platform, as a part of which we manage unified access and resilience of the system which interacts with various vendors which help in banking ledger/transaction related processes. We also manage a nearly no-code platform for the risk analytics team to be able to deploy risk detection and assessments model quickly and reliably.
+
+We have recently conceptualized and built a stateful replica of our banking ledger which is built completely with AWS native services and replicates data with sub second latency and at-scale serving more than 1.5MM+ customers.
+
+---
 
 ### **Senior Software Engineer | Microsoft IDC, Hyderabad**
 
-*Aug 2021 - present*
+*Aug 2021 - Jan 2024*
 
 I work as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise (migrate or hybridly manage) their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
 

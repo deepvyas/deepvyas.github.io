@@ -7,4 +7,4 @@ I have dabbled into various paradigms of engineering from building mobile apps, 
 
 I have also had the opportunity to work with engineering teams at **Marcus, Goldman Sachs**, **Samsung Research** and **TIFR** on various interesting projects post completing my undergrad at **BITS-Pilani**.
 
-You can find more details on my work experience [here](./experience). And if they impress you here's my [resume](./resume_ms_update.pdf).
+You can find more details on my work experience [here](./experience). And if they impress you here's my [resume](./resume.pdf).
