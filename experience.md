@@ -5,13 +5,23 @@ layout : default
 ## Experience
 ---
 
+### **Engineering | Stripe, Bengaluru**
+
+*Nov 2024 - present*
+
+I work as a part of Document Databases Engine team under the Databases Core Infrastructure group at Stripe. Our org is the guardians and the team responsible to push the boundaries of [DocDB](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) one of the largest **MongoDB** fleets in the world.
+
+---
+
 ### **Engineering | ONE, Hyderabad**
 
-*Jan 2024 - present*
+*Jan 2024 - Nov 2024*
 
-I work as a par the Core Banking and Risk Engineering team for [ONE](https://www.one.app/), which has the objective of managing the core banking and risk engineering platform, as a part of which we manage unified access and resilience of the system which interacts with various vendors which help in banking ledger/transaction related processes. We also manage a nearly no-code platform for the risk analytics team to be able to deploy risk detection and assessments model quickly and reliably.
+I worked as a part of the Core Banking and Risk Engineering team for [ONE](https://www.one.app/), which has the objective of managing the core banking and risk engineering platform, as a part of which we manage unified access and resilience of the system which interacts with various vendors which help in banking ledger/transaction related processes. We also managed a nearly no-code platform for the risk analytics team to be able to deploy risk detection and assessments model quickly and reliably.
 
-We have recently conceptualized and built a stateful replica of our banking ledger which is built completely with AWS native services and replicates data with sub second latency and at-scale serving more than 1.5MM+ customers.
+I worked towards conceptualizing and building a stateful replica of our banking ledger which is built completely with AWS native services and replicates data with sub second latency and at-scale serving more than 1.5MM+ customers.
+
+I was also one of the core contributers to the design for a Credit Card Core Platform which was designed to handle state of the art credit card product line at scale.
 
 ---
 
@@ -19,7 +29,7 @@ We have recently conceptualized and built a stateful replica of our banking ledg
 
 *Aug 2021 - Jan 2024*
 
-I work as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise (migrate or hybridly manage) their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
+I worked as a part of a team called Azure Data Modernisation, which was established with a mission to build tools and services to help customers modernise (migrate or hybridly manage) their data workloads in a cloud native way and bring them to [Azure](https://azure.microsoft.com/en-in/product-categories/databases/) to make them ready for the new normal of building software on-cloud.
 
 We have been working on developing migration services to help customer(s) assess, plan and move their RDBMS databases from on-prem/self hosted to Azure with the focus being on building solutions for bringing customers to Azure SQL offerings. (all PaaS, IaaS and [hybrid-management](https://learn.microsoft.com/en-us/sql/sql-server/azure-arc/connect?view=sql-server-ver16&tabs=windows) offerings.)
 
