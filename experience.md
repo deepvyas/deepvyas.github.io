@@ -9,7 +9,11 @@ layout : default
 
 *Nov 2024 - present*
 
-I work as a part of Document Databases Engine team under the Databases Core Infrastructure group at Stripe. Our org is the guardians and the team responsible to push the boundaries of [DocDB](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) one of the largest **MongoDB** fleets in the world.
+I work as a part of Document Databases Engine team under the Databases Core Infrastructure group at Stripe. Our org is the guardians and the team responsible to push the boundaries of [DocDB](https://stripe.com/blog/how-stripes-document-databases-supported-99.999-uptime-with-zero-downtime-data-migrations) one of the largest **MongoDB** fleets in the world. 
+
+My primary work involves diving deep into novel issues that pop out of running MongoDB at scale and optimizing and tuning the engine for being able to serve 5M+ RPS of queries to the databases. It also involves thinking and strategizing about version currency and how we can run database upgrades across such a large fleet while maintaining **0 down time** and having no end-user facing incidents.
+
+Along side that, I also lead the vertical scaling and efficiency improvements initiatives within the org focusing on bring down the cost per unit of storage and running the infrastructure in the leanest way possible while maitaining **99.99995%** of uptime of the platform.
 
 ---
 
